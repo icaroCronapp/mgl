@@ -1,0 +1,19 @@
+{
+  "name": "webapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cronapp/framework-core": "3.1.0-SP.2",
+    "cronapi-js": "3.1.0-SP.2",
+    "cronapp-common-js": "3.1.0-SP.2",
+    "cronapp-framework-js": "3.1.0-SP.2",
+    "cronapp-lib-js": "3.1.0-SP.2"
+  }
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><Context>
+    <Resource accessToUnderlyingConnectionAllowed="true" driverClassName="org.h2.Driver" logAbandoned="true" name="jdbc/main" password="root" profile="DEV" removeAbandoned="false" removeAbandonedTimeout="60" type="javax.sql.DataSource" url="jdbc:h2:file:~/791febd9ebe542778241dc5a91a709f5;ALIAS_COLUMN_NAME=true;AUTO_SERVER=TRUE" username="root"/>
+    <Profile value="DEV"/>
+    <Profile value="PROD"/>
+    <Parameter name="API_URL_TOKEN" value="https://hmlnewcon.consorciomagalu.net.br/sustentacao/Newcon.AutoAtendimento_LZ.Api/api/lz/v1/login/externo"/>
+    <Parameter name="API_APP_NAME" value="cronapp"/>
+    <Parameter name="API_APP_ID" value="efgh354987"/>
+    <Parameter name="API_INSCRICAO_NACIONAL" value="04359867670"/>
+    <Parameter name="API_URL_COTAS" value="https://hmlnewcon.consorciomagalu.net.br/sustentacao/Newcon.AutoAtendimento_LZ.Api/api/lz/v1/cotas"/>
+</Context>
